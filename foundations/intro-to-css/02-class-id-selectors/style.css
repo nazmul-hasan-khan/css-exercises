@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.cool {
+    background-color: #ff9b9b;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#sec-tag {
+    color: #0501ff;
+    font-size: 36px;
+}
+.odd {
+    font-size: 24px;
+}
+#another-id {
+    background-color: #60ff65;
+    font-size: 24px;
+    font-weight: bold;
+}
